@@ -261,8 +261,8 @@ footer {
 
   /* Buttons */
   .buttons {
-    flex-direction: column;
-    width: 100%;
+    flex-direction: row;
+    width: 45%;
   }
 
   .btn {
