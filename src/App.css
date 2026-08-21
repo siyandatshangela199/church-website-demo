@@ -216,25 +216,96 @@ footer {
 }
 
 @media (max-width: 700px) {
+
+  /* Navigation */
   nav {
-    padding: 0 5%;
+    height: auto;
+    padding: 18px 5%;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  nav h2 {
+    font-size: 20px;
+    text-align: center;
   }
 
   .nav-links {
-    display: none;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
+  .nav-links a {
+    font-size: 14px;
+  }
+
+
+  /* Hero */
   .hero {
-    min-height: 550px;
-    padding: 70px 5%;
+    min-height: 500px;
+    padding: 40px 5%;
   }
 
-  .section,
-  .contact {
-    padding: 70px 5%;
+  .hero-bg-image {
+    width: 100%;
+    height: 100%;
   }
 
+  .hero-content {
+    width: 100%;
+    padding: 20px 10px;
+  }
+
+
+  /* Buttons */
+  .buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+
+  /* Sections */
+  .about,
+  .first,
+  .events {
+    margin: 10px 5%;
+    padding: 45px 6%;
+  }
+
+
+  /* Cards */
   .cards {
     grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .card {
+    padding: 22px;
+  }
+
+
+  /* Image section */
+  .a {
+    flex-direction: column;
+  }
+
+
+  /* Contact */
+  .contact {
+    padding: 60px 8%;
+  }
+
+
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 25px 5%;
   }
 }
