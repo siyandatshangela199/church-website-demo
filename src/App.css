@@ -145,7 +145,7 @@ nav h2 {
   margin: 0 auto;
   padding: 20px 10px;
   background-color: lightgrey;
-  margin: 20px 10px;
+  margin: 5px 5px;
 }
 .a {
   display:flex;
@@ -156,12 +156,12 @@ nav h2 {
 .first {
   padding: 20px 8%;
   background-color: lightgrey;
-  margin: 10px;
+  margin: 5px;
 }
 .events {
   padding: 20px 8%;
   background-color: lightgrey;
-  margin: 10px;
+  margin: 5px;
 }
 .section h2,
 .contact h2 {
