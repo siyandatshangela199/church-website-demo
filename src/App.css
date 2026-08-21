@@ -258,12 +258,20 @@ footer {
     padding: 20px 10px;
   }
 
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  width: 100%;
+}
 
-  /* Buttons */
-  .buttons {
-    flex-direction: row;
-    width: 45%;
-  }
+.buttons .btn {
+  flex: 1;
+  white-space: nowrap;
+  text-align: center;
+}
+
+
 
   .btn {
     width: 100%;
