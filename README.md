@@ -6,7 +6,7 @@ A React-based church website demonstration developed to showcase my frontend dev
 
 The website is deployed on **Render** and publicly accessible through the link below.
 
-**Live Website:** YOUR_RENDER_URL
+**Live Website:** https://church-website-demo.onrender.com
 
 ## Project Overview
 
