@@ -1,16 +1,56 @@
-# React + Vite
+# Grace Community Church – Website Demonstration
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based church website demonstration developed to showcase my frontend development skills, problem-solving abilities, and approach to building practical websites for organisations.
 
-Currently, two official plugins are available:
+## Live Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The website is deployed on **Render** and publicly accessible through the link below.
 
-## React Compiler
+**Live Website:** YOUR_RENDER_URL
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Overview
 
-## Expanding the ESLint configuration
+Grace Community Church is a website demonstration developed around the needs of a church looking to establish an online presence and communicate effectively with its congregation and visitors.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The website provides visitors with information about the church, weekly services, upcoming events, and contact details.
+
+This project forms part of my software development portfolio and demonstrates my ability to translate organisational needs into a functional web interface.
+
+**Note:** This is a portfolio demonstration, not a completed commercial website. The church name, address, contact details, service schedules, and event information are illustrative examples.
+
+## Features
+
+- **Navigation:** Links to the main sections of the website.
+- **Hero Section:** Features a prominent banner and navigation calls to action.
+- **About Section:** Introduces the church and its community.
+- **Service Information:** Displays weekly worship, Bible study, and prayer meeting schedules.
+- **Upcoming Events:** Showcases church activities and community gatherings.
+- **Contact Section:** Displays contact information and a direct WhatsApp contact link.
+- **Visual Content:** Uses images to create an engaging website experience.
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS
+- Vite
+- React Icons
+
+## Skills Demonstrated
+
+- Developing multi-section websites using React.
+- Structuring and organising web content.
+- Implementing section-based navigation.
+- Building visually engaging user interfaces.
+- Integrating images and icon libraries.
+- Implementing contact links and calls to action.
+- Deploying frontend applications using Render.
+
+## Project Status
+
+Portfolio demonstration developed to showcase practical frontend development skills and my approach to building websites around organisational needs.
+
+## Developer
+
+**Siyanda Tshangela**  
+Software Developer
